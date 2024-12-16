@@ -21,7 +21,7 @@ Widget buildDynamicWidget() {
         Text(
           "Hello from GitHub! new Update",
           style: TextStyle(
-            color: Colors.white,
+            color: Colors.black,
             fontSize: 18,
             fontWeight: FontWeight.bold,
           ),
