@@ -19,7 +19,7 @@ Widget buildDynamicWidget() {
         ),
         SizedBox(height: 10),
         Text(
-          "Hello from GitHub!",
+          "Hello from GitHub! new Update",
           style: TextStyle(
             color: Colors.white,
             fontSize: 18,
